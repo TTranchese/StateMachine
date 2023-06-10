@@ -1,6 +1,6 @@
 package com.example.StateMachine.entities;
 
-public enum OrderEvent{
+public enum OrderEvent {
 	START_PROCESSING,
 	COMPLETE,
 	CANCEL
